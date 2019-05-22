@@ -1,5 +1,6 @@
 # Parallizeing Multiscale Edge Detection with OpenACC, OpenMPI, and FFT
 <p> By: <b>Yahia Bakour and James Dunn</b></p>
+
  
  <p float="left" align="center">
 <img src="https://github.com/jimmykdunn/multiscaleEdgeDetection/blob/master/Photos%20for%20Readme/architecture-cliffside-cold-789380.jpg" width="345.6" height="230.4">
